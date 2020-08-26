@@ -15,14 +15,20 @@ class Circle {
   }
   
   get area(){
-    return (Math.PI* * this.radius;
+    return Math.PI * Math.pow(this.radius,2);
   }
   
-  set diameter(diameter)
+  set diameter(diameter){
+    
+  }
   
-  set circumference(circumference)
+  set circumference(circumference){
+    
+  }
   
-  set area(area)
+  set area(area){
+    
+  }
   
     
   
